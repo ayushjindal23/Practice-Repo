@@ -1,4 +1,4 @@
-const math = require("fs");
+const math = require("./math");
 
 console.log(math.add(9, 4));
 
